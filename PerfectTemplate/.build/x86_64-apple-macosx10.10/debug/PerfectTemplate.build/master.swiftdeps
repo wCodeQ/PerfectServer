@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "1121a11a363dfb9aa65bfbf0569179d8"
+build_time: [1541406820, 73209000]
+inputs:
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/MyDB.swift": !dirty [9223372036, 854775807]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/MyServer.swift": !dirty [9223372036, 854775807]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/main.swift": !dirty [1541399964, 0]

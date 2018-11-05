@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "854a61f7d4dc7ccc704f54f7772cc035"
+build_time: [1541406818, 905552000]
+inputs:
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-MySQL.git-4976130768219902098/Sources/PerfectMySQL/MySQL.swift": [1535534959, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-MySQL.git-4976130768219902098/Sources/PerfectMySQL/MySQLCRUD.swift": [1535534959, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-MySQL.git-4976130768219902098/Sources/PerfectMySQL/MySQLStmt.swift": [1535534959, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-MySQL.git-4976130768219902098/Sources/PerfectMySQL/PerfectMySQL.swift": [1535534959, 0]

@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "b34ab606f7f7c4813352f1bf88a56561"
+build_time: [1541406814, 850164000]
+inputs:
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Bytes.swift": [1535534765, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Dir.swift": [1535534765, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/File.swift": [1535534765, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/JSONConvertible.swift": [1535534765, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Log.swift": [1535534765, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectError.swift": [1535534765, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectServer.swift": [1535534765, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SysProcess.swift": [1535534765, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Utilities.swift": [1535534765, 0]

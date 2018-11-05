@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/master.swiftdeps"
+  },
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/MyDB.swift": {
+    "dependencies": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/MyDB.d",
+    "object": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/MyDB.swift.o",
+    "swiftmodule": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/MyDB~partial.swiftmodule",
+    "swift-dependencies": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/MyDB.swiftdeps"
+  },
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/MyServer.swift": {
+    "dependencies": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/MyServer.d",
+    "object": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/MyServer.swift.o",
+    "swiftmodule": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/MyServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/MyServer.swiftdeps"
+  },
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/main.swift": {
+    "dependencies": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/main.d",
+    "object": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/main.swift.o",
+    "swiftmodule": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectTemplate.build/main.swiftdeps"
+  }
+}

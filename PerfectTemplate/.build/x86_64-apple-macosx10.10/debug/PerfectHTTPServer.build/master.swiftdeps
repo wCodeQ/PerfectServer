@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "19c6d83fae88d1d18619afb01f04b999"
+build_time: [1541406819, 467620000]
+inputs:
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServer.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1535534764, 0]

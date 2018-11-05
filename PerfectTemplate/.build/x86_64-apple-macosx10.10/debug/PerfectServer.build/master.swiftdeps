@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "074c87012e53a3fa4cc5203256b8227f"
+build_time: [1541416096, 131421000]
+inputs:
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/PerfectServer/Model/People.swift": [1541408877, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/PerfectServer/Model/ResponseData.swift": [1541410307, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/PerfectServer/ModelExtension.swift": [1541411191, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/PerfectServer/MyDB.swift": [1541411482, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/PerfectServer/MyServer.swift": [1541410177, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/Sources/PerfectServer/main.swift": [1541399964, 0]

@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "66c78e7dee1def0bbe928627938ee5c2"
+build_time: [1541406817, 946147000]
+inputs:
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Algorithms.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/ByteIO.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Extensions.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/JWT.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Keys.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/OpenSSLInternal.swift": [1535534764, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/PerfectCrypto.swift": [1535534764, 0]

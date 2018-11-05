@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "3eb57e6d3d19cb86ccea0c519c5d0874"
+build_time: [1541406814, 954485000]
+inputs:
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/Socket.swift": [1541406802, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/SocketProtocols.swift": [1541406802, 0]
+  "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket/SocketUtils.swift": [1541406802, 0]

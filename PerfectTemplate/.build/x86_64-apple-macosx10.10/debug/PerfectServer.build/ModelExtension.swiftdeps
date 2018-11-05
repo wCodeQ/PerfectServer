@@ -1,0 +1,278 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "13PerfectServer6PeopleV"
+- "13PerfectServer12ResponseDataV"
+- "13PerfectServer7MyErrorV"
+provides-member:
+- ["13PerfectServer6PeopleV", ""]
+- ["13PerfectServer12ResponseDataV", ""]
+- ["13PerfectServer7MyErrorV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- "JSONConvertible"
+- "MyError"
+- "People"
+- "ResponseData"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "jsonEncodedString"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "jsonEncodedString"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonEncodedString"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "jsonEncodedString"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "jsonEncodedString"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s9DecodableP", "String"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "age"]
+- !private ["s9DecodableP", "code"]
+- !private ["s9DecodableP", "data"]
+- !private ["s9DecodableP", "error"]
+- !private ["s9DecodableP", "init"]
+- ["s9DecodableP", "jsonEncodedString"]
+- !private ["s9DecodableP", "message"]
+- !private ["s9DecodableP", "name"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "success"]
+- !private ["s10DictionaryV", "init"]
+- !private ["s10DictionaryV", "jsonEncodedString"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "String"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "age"]
+- !private ["s9EncodableP", "code"]
+- !private ["s9EncodableP", "data"]
+- !private ["s9EncodableP", "error"]
+- !private ["s9EncodableP", "init"]
+- ["s9EncodableP", "jsonEncodedString"]
+- !private ["s9EncodableP", "message"]
+- !private ["s9EncodableP", "name"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "success"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "jsonEncodedString"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s5ErrorP", "String"]
+- !private ["s5ErrorP", "code"]
+- ["s5ErrorP", "jsonEncodedString"]
+- !private ["s5ErrorP", "message"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "jsonEncodedString"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "init"]
+- !private ["10PerfectLib15JSONConvertibleP", "String"]
+- ["10PerfectLib15JSONConvertibleP", ""]
+- !private ["10PerfectLib15JSONConvertibleP", "_getBuiltinLogicValue"]
+- !private ["10PerfectLib15JSONConvertibleP", "age"]
+- !private ["10PerfectLib15JSONConvertibleP", "code"]
+- !private ["10PerfectLib15JSONConvertibleP", "data"]
+- !private ["10PerfectLib15JSONConvertibleP", "error"]
+- !private ["10PerfectLib15JSONConvertibleP", "init"]
+- ["10PerfectLib15JSONConvertibleP", "jsonEncodedString"]
+- !private ["10PerfectLib15JSONConvertibleP", "message"]
+- !private ["10PerfectLib15JSONConvertibleP", "name"]
+- !private ["10PerfectLib15JSONConvertibleP", "subscript"]
+- !private ["10PerfectLib15JSONConvertibleP", "success"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["13PerfectServer7MyErrorV", "String"]
+- !private ["13PerfectServer7MyErrorV", "code"]
+- ["13PerfectServer7MyErrorV", "deinit"]
+- ["13PerfectServer7MyErrorV", "jsonEncodedString"]
+- !private ["13PerfectServer7MyErrorV", "message"]
+- ["13PerfectServer6PeopleV", "String"]
+- !private ["13PerfectServer6PeopleV", "age"]
+- ["13PerfectServer6PeopleV", "deinit"]
+- ["13PerfectServer6PeopleV", "jsonEncodedString"]
+- !private ["13PerfectServer6PeopleV", "name"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- ["13PerfectServer12ResponseDataV", "String"]
+- !private ["13PerfectServer12ResponseDataV", "data"]
+- ["13PerfectServer12ResponseDataV", "deinit"]
+- !private ["13PerfectServer12ResponseDataV", "error"]
+- ["13PerfectServer12ResponseDataV", "jsonEncodedString"]
+- !private ["13PerfectServer12ResponseDataV", "success"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "jsonEncodedString"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "jsonEncodedString"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- "s9EncodableP"
+- !private "s9EquatableP"
+- "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- "10PerfectLib15JSONConvertibleP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "13PerfectServer7MyErrorV"
+- "13PerfectServer6PeopleV"
+- !private "s26RangeReplaceableCollectionP"
+- "13PerfectServer12ResponseDataV"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/os.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectCRUD.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectMySQL.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectHTTP.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectLib.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectThread.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectCrypto.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectHTTPServer.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/os.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/x86_64-apple-macosx10.10/debug/PerfectNet.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509v3.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/typelib.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/../zlib.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/czlib.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/my_alloc.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/my_command.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/mysql_time.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/mysql/psi/psi_base.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../conf.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/../zconf.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/../zutil.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/mysql.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/mysql_com.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/mysql/client_plugin.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/mysql_version.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/mysql/plugin_auth_common.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/http_parser.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/../inftrees.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/binary_log_types.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../cms.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/my_list.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/usr/local/mysql-5.7.23-macos10.13-x86_64/include/mysql/psi/psi_memory.h"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-mysqlclient.git-5333716826204139417/module.modulemap"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/module.modulemap"
+- "/Users/wangqian/Desktop/perfect/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "c110d4048730ae4ac495a020e71acaf1"
